@@ -11,7 +11,7 @@
     <keywords>cordova, phonegap, cocoalumberjack</keywords>
 
     <engines>
-        <engine name="cordova" version=">=5.0.0" />
+        <engine name="cordova" version=">=3.0.0" />
     </engines>
 
      <platform name="ios">
